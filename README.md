@@ -2,13 +2,13 @@
 
 This repo have awesome collection of react-native-project.
 
-# Prerequisities
+## Prerequisities
   - `node and npm`
   - `expo`
   - `Android studio with Android Virtual Device`
   - `Download expo app from playStore (Optional)`
 
-# Run locally:
+## Run locally:
 
 ``` git clone https://github.com/anoopsingh1996/React-Native-Projects.git ```
 
