@@ -1,5 +1,29 @@
 # Awesome-React-Native-Projects
 
+This repo have awesome collection of react-native-project.
+
+# Prerequisities
+  - `node and npm`
+  - `expo`
+  - `Android studio with Android Virtual Device`
+  - `Download expo app from playStore (Optional)`
+
+# Run locally:
+
+``` git clone https://github.com/anoopsingh1996/React-Native-Projects.git ```
+
+``` cd  React-Native-Projects ```
+    
+    After this go that folder which project you want to run
+
+``` npm install ```
+
+``` npm start ```
+
+-  Run on Android Virtual Device: After ``` npm start ```  http://localhost:19002/  launch then click Run on Android device/emulator.
+
+-  Run on expo app: Just scan QR code app launch in your physical device (Both physical mobile device and system have same network).
+
 1. TODO APP: It is a simple todo app where user can add or delete items.
 
    ![Peek 2020-01-10 16-04](https://user-images.githubusercontent.com/9657488/72146734-0f816900-33c3-11ea-9e21-b1128c2d8d7b.gif)
