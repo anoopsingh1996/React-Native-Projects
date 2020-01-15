@@ -33,6 +33,8 @@ This repo have awesome collection of react-native-project.
    ![Peek 2020-01-10 16-13](https://user-images.githubusercontent.com/9657488/72147484-9e42b580-33c4-11ea-8aad-58341b992bc3.gif)
    
 3. BarCodeScanner: A bar code scanner that scan QRcode and show it details in a alert popup.
+
+   ![Screenshot_2020-01-15-16-56-00-48_f73b71075b1de7323614b647fe394240](https://user-images.githubusercontent.com/9657488/72430415-4cc96a80-37b8-11ea-8288-050f8d04482d.png)
    
 Contributing
 ============
