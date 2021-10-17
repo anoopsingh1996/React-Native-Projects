@@ -10,7 +10,7 @@ export default function Header() {
         </View>
     );
 }
-
+/* component here */
 const styles = StyleSheet.create({
     header: {
         height:80,
