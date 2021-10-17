@@ -10,7 +10,7 @@ import {
   StatusBar,
 } from 'react-native';
 
-// Utils
+// Utils import
 import { getLocationId, getWeather } from './utils/api';
 import getImageForWeather from './utils/getImageForWeather';
 import getIconForWeather from './utils/getIconForWeather';
