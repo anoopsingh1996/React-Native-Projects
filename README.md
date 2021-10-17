@@ -1,6 +1,6 @@
 # Awesome-React-Native-Projects
 
-This repo have awesome collection of react-native-project.
+This repo have awesome collection of react-native-project for learning purpose.
 
 ## Prerequisities
   - `node and npm`
